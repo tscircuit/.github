@@ -2,7 +2,7 @@
 
 tscircuit code turns into real electronics that you can preview and order
 
-- [Star our GitHub repo!](https://github.com/tscircuit/tscircuit)
+- [Star our GitHub repo!](https://github.com/tscircuit/tscircuit) [![Github Badge](https://img.shields.io/github/stars/tscircuit/tscircuit?style=social)](https://github.com/tscircuit/tscircuit)
 
 ```tsx
 import { USBC } from "@tsci/seveibar.smd-usb-c"
